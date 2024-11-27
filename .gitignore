@@ -1,0 +1,42 @@
+# Compiled class files
+target/
+
+# Logs
+*.log
+
+# Maven specific
+.mvn/
+!**/mvnw
+!**/mvnw.cmd
+
+# Eclipse-specific files
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ IDEA-specific files
+.idea/
+*.iml
+*.iws
+
+# VS Code-specific files
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.bak
+*.swp
+*.swo
+*~
+
+# Test reports and output
+*.out
+*.test
+
+# Exclude build artifacts
+*.jar
+*.war
+*.ear
